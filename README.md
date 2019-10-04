@@ -1,5 +1,6 @@
 # bookingCom
 booking.com Test
+
 To run this test You need connect to the repo, open the progect in your VS (2019) and run the TestQA. This Test will:
 
 1. Go to the https://www.booking.com page
