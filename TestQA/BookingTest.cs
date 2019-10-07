@@ -15,7 +15,7 @@ namespace TestQA
         public void BookingComTest(String browserName)
         {
             Setup(browserName);
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(15);
 
             /* 1. should go to the https://www.booking.com page */
 
